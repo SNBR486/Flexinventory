@@ -1,0 +1,5 @@
+{
+  "name": "FlexInventory",
+  "description": "智能柔性仓库管理系统。支持动态自定义字段，无需 SQL 知识即可轻松管理企业物资。",
+  "requestFramePermissions": []
+}
